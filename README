@@ -1,0 +1,7 @@
+This project contains the Bee section of the beehive simulator project from the book C# Head First.
+In here the behavior of the bee is isolated from the rest of the project in order to facilitate 
+the study of the movements of the bee. In here the bee moves randomly along a square area and when
+it hits the borders, it randomly moves to some other direction. Later on, this section is integrated
+with the Flowers section into the world project where the bees chase a target as well as they
+have some free fly around the field when there are no flowers available. I hope this code is useful
+to you and that you enjoy creating the simulator as much as I did. Thanks for all!.
